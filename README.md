@@ -1,6 +1,6 @@
 # Insta-Resizer
 
-Insta-Resizer is a simple tool to resize images to the 1080x1080 resolution required by Instagram. It is a simple Python script that uses the Python Imaging Library (PIL) to resize images. We use it to resize images in bulk for faster posting on Instagram.
+Insta-Resizer is a simple tool to resize images to the 1080x1080 resolution required by Instagram. It blurs and stretches the original image to serve as a background for the resized image and adds the foreground image on top of it to maintain the original aspect ratio.  We use it to resize images in bulk for faster posting on Instagram.
 
 ## Installation
 
